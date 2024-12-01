@@ -29,5 +29,4 @@ Initial analysis highlighted areas where the structure did not meet safety or se
 
 ## Files in This Repository
 - **Timber_GridShell.gh**: Grasshopper file containing the parametric model of the grid shell.
-- **gridShell.png**: A visual representation of the final design.
 - **Paper_ChristiaanBakker.pdf**: Detailed report on the design and analysis process, including results and discussion.
